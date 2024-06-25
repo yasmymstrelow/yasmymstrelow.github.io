@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=chakra+petch:wght@");
+@import url("https://fonts.googleapis.com/css?family=chakra+petch:wght@400;700;");
 
 :root{
     --cor-de-fundo: #1E1E1E;
     --verde:#6FFF57;
-    --branco:#FFFFFFF;
+    --branco: #FFFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58,55,94,0.5);
     --texto-fundo: rgba (58,55,94,0.3);
@@ -68,6 +68,5 @@ body{
             }
             .botao :last-child{
                 border-radius: 0 48px 0;
-            }
-            
+            } 
           }
